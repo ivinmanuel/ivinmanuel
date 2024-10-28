@@ -14,7 +14,7 @@ Java Full Stack Developer with experience in developing scalable web application
 src="https://img.shields.io/github/followers/ivinmanuel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/FanofZORO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FanofZORO?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
+[![](https://visitcount.itsvg.in/api?id=ivinmanuel&icon=6&color=2)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivinmanuel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/manuelivin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22583427) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FanofZORO) 
@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/FanofZORO?logo=twitter&style=for-the-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ivinmanuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ivinmanuel&icon=6&color=2)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
