@@ -1,3 +1,7 @@
+
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IVIN MANUEL
 ===================================================================================================================================
 
@@ -7,8 +11,11 @@ Java FUllStack Developer
 Java Full Stack Developer with experience in developing scalable web applications using Java, Spring Boot, React, PostgreSQL, MongoDB and RESTful APIs. Strong expertise in building secure backend services and responsive user interfaces. Proficient in Git for version control. A collaborative problem-solver with a passion for continuous learning.
 
 * 🌍  I'm based in INDIA
+    <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lhOax3cZATGZwEhG0uTYRA.gif">
+
 * ✉️  You can contact me at [ivinmanuel007@gmail.com](mailto:ivinmanuel007@gmail.com)
 * 🧠  I'm learning Java SpringBoot
+
 
 <a href="https://www.github.com/ivinmanuel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ivinmanuel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/FanofZORO" target="_blank" rel="noreferrer"><img
